@@ -1,8 +1,9 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/7a8a6357-3d26-46c0-a919-6b82e529f944">
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/5f5c3a89-c281-409c-9a75-dbbc31714642">
 
 <br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=1000&height=80&lines=Hey+there!+I'm+Julia;I'm+a+compsci+student+from+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6D8FD6&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Julia!;I'm+a+compsci+student+from+Brazil.)](https://git.io/typing-svg)
 
 
 <div align="center">
