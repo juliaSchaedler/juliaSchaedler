@@ -35,4 +35,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliaSchaedler&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
 
+<div align="center">
+  <picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliaSchaedler/juliaSchaedler/output/github-contribution-grid-snake-dark.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliaSchaedler/juliaSchaedler/output/github-contribution-grid-snake.svg">
+	  <img alt="GitHub contribution grid snake animation" srrc="https://raw.githubusercontent.com/juliaSchaedler/juliaSchaedler/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br><br>
+</div>
+
 ###
