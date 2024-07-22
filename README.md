@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Welcome to my corner of GitHub! I'm a data science enthusiast with a particular interest in data mining and AI. I'm currently expanding my knowledge into quantum computing. I also enjoy flexing my creative muscles with web design and game development. I'm always open to collaboration and new challenges.</p>
+<p align="left">Welcome to my corner of GitHub! I'm a data science enthusiast with a particular interest in data mining and AI. <br>I'm currently expanding my knowledge into quantum computing. I also enjoy flexing my creative muscles with web design and game development. <br><br>I'm always open to collaboration and new challenges!</p>
 
 ###
 
